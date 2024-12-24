@@ -1,1 +1,0 @@
-import{_ as o}from"./index-riTLRN8u.js";import{z as s,A as t,y as r}from"./vendor-vue-xQBAByhR.js";const n={},c={class:"home"};function a(m,e){return r(),s("div",c,e[0]||(e[0]=[t("h1",null,"Home",-1)]))}const i=o(n,[["render",a]]);export{i as default};
